@@ -1,0 +1,8 @@
+#boardcanvas {
+	-moz-box-shadow: 4px 4px 5px #888;
+	-webkit-box-shadow: 4px 4px 5px #888;
+	box-shadow: 4px 4px 5px #888;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFF;
+}
